@@ -1,10 +1,11 @@
 # pi-grafana
-Install Grafana to monitor raspberry vitals
+##Install Grafana to monitor raspberry vitals
 
 Raspberry metrics
 Expose raspberry PI metrics using Grafana and Prometheus:
 
 Example
+
 
 About
 Visualise your Raspberry PI metrics. Very easy installation - requires single command. Supports multiple Raspberries.
