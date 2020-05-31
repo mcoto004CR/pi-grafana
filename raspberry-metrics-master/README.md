@@ -1,6 +1,8 @@
 Raspberry metrics
 =================
 
+Copyrights: https://github.com/bhemar/raspberry-metrics
+
 Expose raspberry PI metrics using [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/):
 
 ![Example](./preview/Screen_Shot.jpg)
